@@ -341,7 +341,7 @@ input {
 }
 
 .home__info {
-  background-color: var(--first-color);
+  background-color: #ffffff;
   display: flex;
   padding: 1.5rem 1rem;
   align-items: center;
@@ -969,7 +969,7 @@ input {
     grid-template-rows: 2fr .5fr;
   }
   .home__info {
-    width: 328px;
+    width: 228px;
     grid-template-columns: 1fr 2fr;
     column-gap: 2rem;
   }
